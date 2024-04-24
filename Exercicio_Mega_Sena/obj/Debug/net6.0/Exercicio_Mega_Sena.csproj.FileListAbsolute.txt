@@ -1,0 +1,15 @@
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Mega_Sena\Exercicio_Mega_Sena\bin\Debug\net6.0\Exercicio_Mega_Sena.exe
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Mega_Sena\Exercicio_Mega_Sena\bin\Debug\net6.0\Exercicio_Mega_Sena.deps.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Mega_Sena\Exercicio_Mega_Sena\bin\Debug\net6.0\Exercicio_Mega_Sena.runtimeconfig.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Mega_Sena\Exercicio_Mega_Sena\bin\Debug\net6.0\Exercicio_Mega_Sena.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Mega_Sena\Exercicio_Mega_Sena\bin\Debug\net6.0\Exercicio_Mega_Sena.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Mega_Sena\Exercicio_Mega_Sena\obj\Debug\net6.0\Exercicio_Mega_Sena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Mega_Sena\Exercicio_Mega_Sena\obj\Debug\net6.0\Exercicio_Mega_Sena.AssemblyInfoInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Mega_Sena\Exercicio_Mega_Sena\obj\Debug\net6.0\Exercicio_Mega_Sena.AssemblyInfo.cs
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Mega_Sena\Exercicio_Mega_Sena\obj\Debug\net6.0\Exercicio_Mega_Sena.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Mega_Sena\Exercicio_Mega_Sena\obj\Debug\net6.0\Exercicio_Mega_Sena.sourcelink.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Mega_Sena\Exercicio_Mega_Sena\obj\Debug\net6.0\Exercicio_Mega_Sena.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Mega_Sena\Exercicio_Mega_Sena\obj\Debug\net6.0\refint\Exercicio_Mega_Sena.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Mega_Sena\Exercicio_Mega_Sena\obj\Debug\net6.0\Exercicio_Mega_Sena.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Mega_Sena\Exercicio_Mega_Sena\obj\Debug\net6.0\Exercicio_Mega_Sena.genruntimeconfig.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Mega_Sena\Exercicio_Mega_Sena\obj\Debug\net6.0\ref\Exercicio_Mega_Sena.dll

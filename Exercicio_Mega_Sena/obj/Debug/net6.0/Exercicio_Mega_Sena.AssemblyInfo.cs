@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio_Mega_Sena")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+559fa3a97f9702942dbbc55cd02033a7ba25d786")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c112029dbdf81b05812c6c71184995c027dcec4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercicio_Mega_Sena")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercicio_Mega_Sena")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
